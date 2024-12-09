@@ -60,7 +60,7 @@ New Customers: Discounts appear to play a significant role in acquisition. Ensur
 Other and Uncategorized Groups: High discount rates may reflect inefficiencies in resource allocation.
 ---
 
-### **5.2 Actionable Recommendations**
+## **5. Actionable Recommendations**
 1. Engagement and Retention Strategies
    - At-Risk Group:
       - Implement personalized email or SMS campaigns highlighting their favorite categories (fashion and personal care).
@@ -100,4 +100,4 @@ Develop tailored campaigns for these groups to maximize their engagement potenti
 - Linkedin : https://www.linkedin.com/in/rachmawatihp/ & https://www.linkedin.com/in/melinayusafitri
 
 ## 7. Dashboard
-https://public.tableau.com/views/DashboardAnalysisRFM-ShopeeMalaysia/DashboardRFM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Tableau Dashboard](https://public.tableau.com/views/DashboardAnalysisRFM-ShopeeMalaysia/DashboardRFM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
