@@ -1,4 +1,4 @@
-<h1> RFM-Analysis-Shopee-Malaysia- </h1>
+<h1> RFM-Analysis-Shopee-Malaysia </h1>
 <h1> Understanding Customer Behavior on Shopee Malaysia Based on RFM Analysis (April - May 2023) </h1>
 
 ## 1. Project Overview
@@ -13,7 +13,7 @@ Key Objectives:
 - **Uncategorized Group**: How can we improve the classification of customers in the "Uncategorized" group and ensure more accurate segmentation? 
 
 ## 2. Data Sources
-- [Dataset 1](https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF) - Shopee Malaysia
+- [Dataset 1](https://www.kaggle.com/code/yoongsin/shopee-sales-analysis/input?select=20240121_shopee_sample_data+%281%29.csv) - Shopee Malaysia
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
@@ -95,9 +95,9 @@ Further analyze the Other and Uncategorized groups to refine segmentation.
 Develop tailored campaigns for these groups to maximize their engagement potential.
 
 ## 6. Contact
-- Name: Rachmawati Hapsari Putri & Melin Ayu Safitri
-- Email:putriemma2010@gmail.com & melinayusafitri@gmail.com
-- Linkedin: https://www.linkedin.com/in/rachmawatihp/ & https://www.linkedin.com/in/melinayusafitri
+- Name : Rachmawati Hapsari Putri & Melin Ayu Safitri
+- Email : putriemma2010@gmail.com & melinayusafitri@gmail.com
+- Linkedin : https://www.linkedin.com/in/rachmawatihp/ & https://www.linkedin.com/in/melinayusafitri
 
 ## 7. Dashboard
 https://public.tableau.com/views/DashboardAnalysisRFM-ShopeeMalaysia/DashboardRFM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
