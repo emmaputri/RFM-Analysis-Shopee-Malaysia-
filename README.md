@@ -95,6 +95,9 @@ Further analyze the Other and Uncategorized groups to refine segmentation.
 Develop tailored campaigns for these groups to maximize their engagement potential.
 
 ## 6. Contact
-- Name: Rachmawati Hapsari Putri
-- Email:putriemma2010@gmail.com
-- Linkedin: https://www.linkedin.com/in/rachmawatihp/
+- Name: Rachmawati Hapsari Putri & Melin Ayu Safitri
+- Email:putriemma2010@gmail.com & melinayusafitri@gmail.com
+- Linkedin: https://www.linkedin.com/in/rachmawatihp/ & https://www.linkedin.com/in/melinayusafitri
+
+## 7. Dashboard
+https://public.tableau.com/views/DashboardAnalysisRFM-ShopeeMalaysia/DashboardRFM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
