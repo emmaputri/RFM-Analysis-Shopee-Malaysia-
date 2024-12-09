@@ -2,16 +2,18 @@
 <h1> Understanding Customer Behavior on Shopee Malaysia Based on RFM Analysis (April - May 2023) </h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract actionable insights, enhance decision-making, and identify key trends in customer behavior. The primary focus is to address the question: "How are customer behavior and booking trends across neighborhoods and review months in Bangkok's Airbnb listings influenced by price dynamics, availability patterns, and preferences for different types of rooms?"
+Shopee Malaysia is a leading e-commerce platform in Kuala Lumpur, catering to a diverse customer base. In the face of increasing competition and rapidly changing consumer behaviors, Shopee seeks to maintain its competitive edge by understanding its customers better and tailoring engagement strategies to their needs. This project leverages Recency, Frequency, and Monetary (RFM) analysis to segment customers based on their purchasing behaviors and identify actionable insights for improving customer engagement, retention, and profitability.
 
 Key Objectives:
-- **Objective 1**: Analyze customer booking patterns across neighborhoods and review months to identify seasonal trends and preferences.  
-- **Objective 2**: Investigate price dynamics and availability patterns to optimize pricing strategies and improve host performance.  
-- **Objective 3**: Segment customers based on room type preferences and neighborhood choices to target high-value customer groups effectively.  
+- **Increasing Engagement for At-Risk Customers**: How can we increase engagement and retention for at-risk customers?
+- **Focus on New Customer Conversion**: How can we convert new customers into loyal, long-term buyers?
+- **Retention Strategies for Churned Customers**: What strategies can be implemented to reduce churn and win back churned customers?
+- **Sustain Loyalty Growth**: How can we sustain the growth in the loyal customer segment?
+- **Potential for Cross-Selling in the Other Group**: What opportunities for cross-selling and upselling exist within the "Other" group of customers?
+- **Uncategorized Group**: How can we improve the classification of customers in the "Uncategorized" group and ensure more accurate segmentation? 
 
 ## 2. Data Sources
-- [Dataset 1](https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF) - Airbnb Listing Bangkok
-- [Dataset 2](https://drive.google.com/file/d/1wBWtQIVHSCiVFhDAZCka-FQYTvhdfWKt/view?usp=drive_link) - Bangkok District Geojson
+- [Dataset 1](https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF) - Shopee Malaysia
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
@@ -20,73 +22,77 @@ Key Objectives:
 - Version Control: Git
 - Others: Jupyter Notebook
 
-## 4. Project Structure
+## 4. Summary of Findings
+1. Customer Segments and Behavior <br>
+   - **At-Risk Group**: <br>
+      - Significant growth from April to May indicates many customers are shifting to this group. Top categories include Men Clothes, Health & Beauty, and Women Clothes, suggesting prior interest in fashion and personal care.
+      - Insight: This group requires urgent re-engagement to prevent churn.
 
-```
-├── README.md          <- The top-level README for developers using this project.
-|
-├── data
-│   ├── raw            <- Data from third party sources.
-│   └── cleaned        <- The data that has been cleaned.
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── reports            <- Generated analysis as PowerPoint, PDF, LaTeX, etc.
-|   ├── slide          <- Generated PowerPoint
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-└── src                <- Source code for use in this project.
+   - **Churned Group**: <br>
+      - Modest growth in numbers. Primary categories are Health & Beauty, Home & Living, and Groceries & Pets, suggesting loss of interest or competing priorities.
+      - Insight: Customers in this group are harder to win back but show potential for reactivation with targeted campaigns.
 
-```
+   - **Loyal Group**:<br>
+      - Significant growth indicates strong retention efforts. Top categories are Women Clothes, Men Clothes, and Health & Beauty.
+      - Insight: Loyalty strategies are working well; this group should be nurtured further to maintain their commitment.
 
-## 5. Summary of Findings
+   - **New Group**: <br>
+      - Rapid growth from new acquisitions in May. Popular categories include Health & Beauty, Mobile & Accessories, and Men Clothes.
+      - Insight: These customers are at the start of their lifecycle, providing a strong opportunity to establish loyalty early.
 
-### **5.1 Business Insights**
-1. **Room Type Preferences:**  
-   - Hotel rooms have the highest median price, followed by entire homes/apartments, private rooms, and shared rooms.  
-   - Room type preferences significantly vary by neighborhood and review month, indicating demand shifts influenced by seasonality and location.  
+   - **Other and Uncategorized Groups**: <br>
+      - Significant growth in numbers but less engagement. Top interests include Men Clothes, Mobile & Accessories, and Health & Beauty.
+      - Insight: These groups may benefit from further segmentation and analysis to identify tailored strategies.
 
-2. **Price Dynamics Across Neighborhoods:**  
-   - Significant differences in prices across neighborhoods suggest varying demand and customer value perceptions.  
-   - Premium neighborhoods attract higher-paying customers, while others may cater to budget-conscious travelers.  
+2. Category Trends<br>
+Health & Beauty consistently performs well across all segments, indicating it is a universal category.
+Clothing (Men and Women) is a key interest for At-Risk, Loyal, and Other groups, highlighting its importance for fashion-focused customers.
+Mobile & Accessories appeals to New and Other groups, reflecting interest in technology among newer customers.
 
-3. **Availability and Price Relationship:**  
-   - An inverse relationship exists between availability and price, where properties with lower availability command higher prices, likely due to higher demand.  
+3. Seasonal Trends<br>
+Rapid increases in customer numbers across most groups in May suggest effective seasonal promotions or campaigns.
+Growth in Loyal and New groups implies successful marketing strategies to retain and acquire customers during this period.
 
-4. **Seasonal Trends in Booking Patterns:**  
-   - Customer behavior shows clear seasonal variations, with distinct room type preferences and price sensitivity during specific months.  
-
-5. **Room Type Distribution by Neighborhood:**  
-   - Certain neighborhoods exhibit a strong preference for specific room types, highlighting opportunities for targeted marketing and property optimization.  
-
+4. Discount Strategy <br>
+At-Risk and Churned Groups: Discounts may need optimization to re-engage and reactivate these groups effectively.
+Loyal Group: Over-discounting could hurt margins; focus on exclusive, value-added benefits instead.
+New Customers: Discounts appear to play a significant role in acquisition. Ensure alignment with projected customer lifetime value.
+Other and Uncategorized Groups: High discount rates may reflect inefficiencies in resource allocation.
 ---
 
 ### **5.2 Actionable Recommendations**
-1. **Optimized Pricing Strategies:**  
-   - Adjust pricing dynamically based on neighborhood, availability, and seasonal trends to maximize revenue.  
-   - Train hosts to implement flexible pricing strategies that account for high-demand periods.  
+1. Engagement and Retention Strategies
+   - At-Risk Group:
+      - Implement personalized email or SMS campaigns highlighting their favorite categories (fashion and personal care).
+      - Offer time-sensitive discounts or exclusive loyalty rewards.
+   - Churned Group:
+      - Conduct surveys to understand reasons for churn and develop targeted re-engagement offers.
+      - Focus on top categories like Health & Beauty with bundled deals or discounts.
+   - Loyal Group:
+      - Sustain loyalty through rewards programs, early access to sales, and personalized recommendations.
+      - Minimize heavy discounting and emphasize value-added services like free shipping or exclusive products.
+   - New Group:
+      - Create a structured onboarding campaign to introduce customers to popular categories.
+      - Provide personalized discounts or loyalty points for repeat purchases.
+        
+2. Category-Specific Promotions
+Leverage Health & Beauty as a lead category for most segments, with targeted campaigns and bundles.
+Promote Men and Women Clothes in the At-Risk, Loyal, and Other groups with tailored offerings based on previous engagement.
+Highlight Mobile & Accessories for New and Other groups to capitalize on their interest in tech products.
 
-2. **Targeted Marketing Campaigns:**  
-   - Launch neighborhood-specific campaigns promoting room types that align with local demand patterns.  
-   - Highlight seasonal discounts or unique neighborhood features during peak review months.  
+3. Seasonal Campaign Optimization
+Analyze the success of May campaigns to replicate or enhance strategies during future peak periods.
+Prepare early for seasonal promotions to maintain momentum in acquisition and retention.
 
-3. **Customer Segmentation:**  
-   - Use insights into room type preferences to create personalized marketing campaigns for different customer segments.  
-   - Focus on premium properties in high-value neighborhoods to attract higher-spending customers.  
+4. Discount Optimization
+Compare discount effectiveness across segments.
+Increase discounts for At-Risk and Churned groups to re-engage them effectively.
+Focus on value-driven retention strategies for Loyal customers.
+Ensure New customer discounts align with their lifetime value.
 
-4. **Host Education:**  
-   - Educate hosts about the importance of availability and how pricing impacts their property's performance.  
-   - Provide analytics tools that allow hosts to track and optimize their listings in real time.  
-
-5. **Seasonal Promotions:**  
-   - Offer incentives or discounts during low-demand months to boost bookings and maintain consistent occupancy.  
-
-These insights and recommendations enable Airbnb to better align its offerings with customer preferences, maximize profitability, and enhance customer satisfaction.
+5. Data-Driven Segmentation
+Further analyze the Other and Uncategorized groups to refine segmentation.
+Develop tailored campaigns for these groups to maximize their engagement potential.
 
 ## 6. Contact
 - Name: Rachmawati Hapsari Putri
