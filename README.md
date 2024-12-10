@@ -61,38 +61,29 @@ Other and Uncategorized Groups: High discount rates may reflect inefficiencies i
 ---
 
 ## **5. Actionable Recommendations**
-1. Engagement and Retention Strategies
-   - At-Risk Group:
-      - Implement personalized email or SMS campaigns highlighting their favorite categories (fashion and personal care).
-      - Offer time-sensitive discounts or exclusive loyalty rewards.
-   - Churned Group:
-      - Conduct surveys to understand reasons for churn and develop targeted re-engagement offers.
-      - Focus on top categories like Health & Beauty with bundled deals or discounts.
-   - Loyal Group:
-      - Sustain loyalty through rewards programs, early access to sales, and personalized recommendations.
-      - Minimize heavy discounting and emphasize value-added services like free shipping or exclusive products.
-   - New Group:
-      - Create a structured onboarding campaign to introduce customers to popular categories.
-      - Provide personalized discounts or loyalty points for repeat purchases.
+1. Increasing Engagement for At-Risk Customers
+   - **Personalized Offers:** Provide targeted discounts on products they prefer, such as men's clothes.
+   - **Re-engagement Campaigns:** Send reminder emails or push notifications highlighting new arrivals or special offers.
+   - **Exclusive Incentives:** Create limited-time offers to encourage repeat purchases, such as free shipping for orders placed on Mondays (their preferred day).
+   - **Feedback Loop:** Ask these customers why they may be disengaging through short surveys and act on their feedback.
         
-2. Category-Specific Promotions
-Leverage Health & Beauty as a lead category for most segments, with targeted campaigns and bundles.
-Promote Men and Women Clothes in the At-Risk, Loyal, and Other groups with tailored offerings based on previous engagement.
-Highlight Mobile & Accessories for New and Other groups to capitalize on their interest in tech products.
+2. Focus on New Customer Conversion
+   - **Welcome Programs:** Implement a loyalty program for new customers with points or discounts for their next purchase to drive engagement.
+   - **Cross-Selling:** Promote complementary products in the health & beauty category they already favor.
+   - **Educational Content:** Send tips, how-tos, or value-added content related to health & beauty to establish trust and increase interest.
+   - **Ease of Navigation:** Ensure a smooth shopping experience, including quick checkout and easy access to products.
+   
+3. Retention Strategies for Churned Customers
+   - **Win-Back Campaigns:** Offer a strong incentive, like a personalized discount, for returning customers in their preferred category (health & beauty).
+   - **Surprise Offers:** Send surprise gifts or exclusive bundles to show appreciation and reignite their interest.
+   - **Ease of Communication:** Provide quick and easy customer support to solve any past grievances or issues they might have faced.
+   - **Targeted Messaging:** Use ads or emails to remind them of what they’ve previously purchased or browsed.
 
-3. Seasonal Campaign Optimization
-Analyze the success of May campaigns to replicate or enhance strategies during future peak periods.
-Prepare early for seasonal promotions to maintain momentum in acquisition and retention.
-
-4. Discount Optimization
-Compare discount effectiveness across segments.
-Increase discounts for At-Risk and Churned groups to re-engage them effectively.
-Focus on value-driven retention strategies for Loyal customers.
-Ensure New customer discounts align with their lifetime value.
-
-5. Data-Driven Segmentation
-Further analyze the Other and Uncategorized groups to refine segmentation.
-Develop tailored campaigns for these groups to maximize their engagement potential.
+4. Sustain Loyalty Growth
+   - **Exclusive Perks:** Offer loyal customers early access to sales, exclusive collections, or VIP memberships.
+   - **Engage Through Content:** Keep them engaged with tailored product recommendations and updates on new collections in women’s clothes.
+   - **Celebrate Loyalty:** Recognize milestones (e.g., 1 year of loyalty) with gifts, additional discounts, or shout-outs.
+   - **Community Building:** Create a sense of belonging by inviting them to a customer community or event, such as exclusive previews.
 
 ## 6. Contact
 - Name : Rachmawati Hapsari Putri & Melin Ayu Safitri
