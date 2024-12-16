@@ -9,8 +9,6 @@ Key Objectives:
 - **Focus on New Customer Conversion**: How can we convert new customers into loyal, long-term buyers?
 - **Retention Strategies for Churned Customers**: What strategies can be implemented to reduce churn and win back churned customers?
 - **Sustain Loyalty Growth**: How can we sustain the growth in the loyal customer segment?
-- **Potential for Cross-Selling in the Other Group**: What opportunities for cross-selling and upselling exist within the "Other" group of customers?
-- **Uncategorized Group**: How can we improve the classification of customers in the "Uncategorized" group and ensure more accurate segmentation? 
 
 ## 2. Data Sources
 - [Dataset 1](https://www.kaggle.com/code/yoongsin/shopee-sales-analysis/input?select=20240121_shopee_sample_data+%281%29.csv) - Shopee Malaysia
